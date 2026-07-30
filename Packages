@@ -9,3 +9,15 @@ Section: Tweaks
 Filename: ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
 Size: 49459
 MD5sum: 536009A11DAD57E48A5563224EAFFAFF
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Version: 4.0.1
+Architecture: iphoneos-arm
+Description: Trình quản lý tệp tin mạnh mẽ nhất cho iOS jailbreak.
+Maintainer: HGPhutJB
+Author: TIGISoftware
+Section: Utilities
+Filename: com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm.deb
+Size: 15420000
+MD5sum: F7D33EC0B35A3398401D5755165A4298
