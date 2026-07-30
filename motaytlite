@@ -1,0 +1,42 @@
+{
+  "minVersion": "0.1",
+  "tintColor": "#ff0000",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh minh họa"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 10,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Trang chủ",
+              "url": "https://HGPhutJB.github.io/reposileo/home.png"
+            },
+            {
+              "accessibilityText": "Thư viện",
+              "url": "https://HGPhutJB.github.io/reposileo/library.png"
+            },
+            {
+              "accessibilityText": "Xem video",
+              "url": "https://HGPhutJB.github.io/reposileo/playvideo.png"
+            },
+            {
+              "accessibilityText": "Kênh đăng ký",
+              "url": "https://HGPhutJB.github.io/reposileo/subscription.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Tweak YTLite giúp chặn quảng cáo, phát trong nền và bổ sung nhiều tùy chỉnh giao diện cho ứng dụng YouTube."
+        }
+      ]
+    }
+  ]
+}
