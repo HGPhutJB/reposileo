@@ -1,4 +1,4 @@
-Package: com.hgphutjb.appsyncunified
+Package: ai.akemi.appsyncunified
 Name: AppSync Unified
 Version: 116.0
 Architecture: iphoneos-arm
@@ -8,4 +8,4 @@ Author: Karen/あけみ
 Section: Tweaks
 Filename: ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
 Size: 49459
-MD5sum: D6A31911E878B83E47C6525FA29ECEF1
+MD5sum: 536009A11DAD57E48A5563224EAFFAFF
