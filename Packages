@@ -21,3 +21,15 @@ Section: Utilities
 Filename: com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm.deb
 Size: 15420000
 MD5sum: F7D33EC0B35A3398401D5755165A4298
+
+Package: com.verback.ytlite
+Name: YTLite
+Version: 1.6.5
+Architecture: iphoneos-arm
+Description: Tweak giup chan quang cao va tinh nang nang cao cho YouTube.
+Maintainer: HGPhutJB
+Author: verback2308
+Section: Tweaks
+Filename: com.verback.ytlite_1.6.5_iphoneos-arm.deb
+Size: 4508876
+MD5sum: DE979C8287CA74FF0B25AFD832FD2A8C
