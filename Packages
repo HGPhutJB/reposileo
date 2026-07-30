@@ -1,0 +1,11 @@
+Package: com.hgphutjb.appsyncunified
+Name: AppSync Unified
+Version: 116.0
+Architecture: iphoneos-arm
+Description: Cho phép bạn cài đặt các ứng dụng iOS chưa được ký/giả mạo.
+Maintainer: HGPhutJB
+Author: Karen/あけみ
+Section: Tweaks
+Filename: debs/tentweak.deb
+Size: 49459
+MD5sum: D6A31911E878B83E47C6525FA29ECEF1
