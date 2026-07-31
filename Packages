@@ -34,3 +34,14 @@ Filename: com.verback.ytlite_1.6.5_iphoneos-arm.deb
 Size: 4508876
 MD5sum: DE979C8287CA74FF0B25AFD832FD2A8C
 
+Package: com.hgphut.ios27battery
+Name: iOS27Battery
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: Mang Giao Diện Pin trên iOS 12.
+Maintainer: HGPhutJB
+Author: HGPhutJB
+Section: Tweaks
+Filename: com.hgphut.ios27battery_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3634
+MD5sum: 634691CF38697B3194C1747447EABDDF
