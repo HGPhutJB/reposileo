@@ -23,15 +23,15 @@ Size: 15420000
 MD5sum: F7D33EC0B35A3398401D5755165A4298
 
 Package: com.verback.ytlite
-Name: YTLite
-Version: 1.6.5
+Name: Opaline
+Version: 1.12.0
 Architecture: iphoneos-arm
 Description: Tweak/một ứng dụng Youtube lite giúp bạn chặn quảng cáo và được tích hợp các tweak tính năng như: Return YT Dislike, Nâng trải nghiệm lên 1080P, PIP và âm thanh khi ở ngoài màn hình chính.
 Maintainer: HGPhutJB
 Author: verback2308
 Section: Tweaks
-Filename: com.verback.ytlite_1.6.5_iphoneos-arm.deb
-Size: 4508876
+Filename: Opaline_1.12.0_iphoneos-arm.deb
+Size: 6787432
 MD5sum: DE979C8287CA74FF0B25AFD832FD2A8C
 
 Package: com.wave12.unlockwave
