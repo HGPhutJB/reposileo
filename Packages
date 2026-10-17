@@ -142,18 +142,6 @@ Filename: com.wave12.unlockwave_1.0.0_iphoneos-arm.deb
 Size: 8192
 MD5sum: 7616DEA72A1C5BADFF78F5F3A6EE1FE3
 
-Package: com.wave12.unlockwave
-Name: 2712
-Version:3.0.1
-Architecture: iphoneos-arm
-Description: kết hợp: 26unlock, LiquidMorph và port lại cho iOS 12. Đã tối ưu animation
-Maintainer: HGPhutJB
-Author: Blu_tek
-Section: Tweaks
-Filename: com.wave12.unlockwave_3.0.1_iphoneos-arm.deb
-Size: 85140
-MD5sum: 4AEBD345482BB35CA90E872A67563DBD
-
 Package: com.vitataf.homegesture
 Name: HomeGesture
 Version: 2.1.4
@@ -165,15 +153,3 @@ Section: Tweaks
 Filename: com.vitataf.homegesture_2.1.4.deb
 Size: 2272256
 MD5sum: 30695E64B0E96216EF308BC2E5C64EFA
-
-Package: com.wave12.unlockwave
-Name: 2712
-Version: 4.0.0
-Architecture: iphoneos-arm
-Description: kết hợp: 26unlock, LiquidMorph và port lại cho iOS 12. Đã tối ưu animation
-Maintainer: HGPhutJB
-Author: Blu_tek
-Section: Tweaks
-Filename: com.wave12.unlockwave_4.0.0_iphoneos-arm.deb
-Size: 67966
-MD5sum: F8554CC58E1188E00AF0E4ABCF166837
