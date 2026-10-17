@@ -151,7 +151,7 @@ Maintainer: HGPhutJB
 Author: Blu_tek
 Section: Tweaks
 Filename: com.wave12.unlockwave_3.0.1_iphoneos-arm.deb
-Size: 86016
+Size: 84000
 MD5sum: 4AEBD345482BB35CA90E872A67563DBD
 
 Package: com.vitataf.homegesture
@@ -166,3 +166,14 @@ Filename: com.vitataf.homegesture_2.1.4.deb
 Size: 2272256
 MD5sum: 4AEBD345482BB35CA90E872A67563DBD
 
+Package: com.wave12.unlockwave
+Name: 2712
+Version: 4.0.0
+Architecture: iphoneos-arm
+Description: kết hợp: 26unlock, LiquidMorph và port lại cho iOS 12. Đã tối ưu animation
+Maintainer: HGPhutJB
+Author: Blu_tek
+Section: Tweaks
+Filename: com.wave12.unlockwave_4.0.0_iphoneos-arm.deb
+Size: 67000
+MD5sum: 4AEBD345482BB35CA90E872A67563DBD
