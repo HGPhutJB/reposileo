@@ -141,3 +141,15 @@ Section: Tweaks
 Filename: com.wave12.unlockwave_1.0.0_iphoneos-arm.deb
 Size: 8192
 MD5sum: 7616DEA72A1C5BADFF78F5F3A6EE1FE3
+
+Package: com.wave12.unlockwave
+Name: 2712
+Version:3.0.1
+Architecture: iphoneos-arm
+Description: kết hợp: 26unlock, LiquidMorph và port lại cho iOS 12. Đã tối ưu animation
+Maintainer: HGPhutJB
+Author: Blu_tek
+Section: Tweaks
+Filename: com.wave12.unlockwave_3.0.1_iphoneos-arm.deb
+Size: 86016
+MD5sum: 4AEBD345482BB35CA90E872A67563DBD
