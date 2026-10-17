@@ -153,3 +153,16 @@ Section: Tweaks
 Filename: com.wave12.unlockwave_3.0.1_iphoneos-arm.deb
 Size: 86016
 MD5sum: 4AEBD345482BB35CA90E872A67563DBD
+
+Package: com.vitataf.homegesture
+Name: HomeGesture
+Version: 2.1.4
+Architecture: iphoneos-arm
+Description: kết hợp: Cử chỉ iPhone X cho iOS 11-15.
+Maintainer: HGPhutJB
+Author: Vitataf
+Section: Tweaks
+Filename: com.vitataf.homegesture_2.1.4.deb
+Size: 2272256
+MD5sum: 4AEBD345482BB35CA90E872A67563DBD
+
